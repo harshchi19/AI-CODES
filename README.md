@@ -1,4 +1,5 @@
-**AI Algorithms Repository**
+**AI Algorithms Repository** 
+
 Welcome to the AI Algorithms Repository! This repository contains implementations of various AI algorithms, each designed to solve different types of problems in artificial intelligence and optimization.
 
 ## Table of Contents
