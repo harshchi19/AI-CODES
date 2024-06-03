@@ -2,7 +2,7 @@
 Welcome to the AI Algorithms Repository! This repository contains implementations of various AI algorithms, each designed to solve different types of problems in artificial intelligence and optimization.
 
 ## Table of Contents
-1.A* Algorithm
+1.A* Algorithm </br>
 2.Ant Colony Optimization
 3.Genetic Algorithm
 4.Hill Climbing
